@@ -1,0 +1,8 @@
+Table: Analytic sample sizes by model
+
+|model                                                          | n_records| n_facilities|
+|:--------------------------------------------------------------|---------:|------------:|
+|four-domain main                                               |      1008|          173|
+|four-domain + facility complexity                              |      1008|          173|
+|four-domain + pharmacy availability + facility complexity      |      1008|          173|
+|pharmacy management arrangement among facilities with pharmacy |       787|          135|

@@ -1,0 +1,8 @@
+Table: Management-related domains used in the primary exposure
+
+|domain                                     |operational_criterion                                                                                                   |
+|:------------------------------------------|:-----------------------------------------------------------------------------------------------------------------------|
+|Documented routine administrative meetings |Facility reported routine internal meetings on administrative or management matters and kept records of those meetings. |
+|Documented medical meetings                |Facility reported routine internal meetings on medical topics and kept records of those meetings.                       |
+|Cultural training                          |Facility reported staff training on cultural sensitivity or culturally adapted childbirth services.                     |
+|Human resources evaluation                 |Facility reported staff evaluation during the previous year.                                                            |

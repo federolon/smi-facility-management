@@ -1,0 +1,5 @@
+"model","n_records","n_facilities","n_countries","facility_random_intercept_variance","facility_random_intercept_sd","approximate_logistic_icc","AIC","BIC","logLik"
+"four-domain management count + country + (1 | facility_id)",1008,173,7,3.22673310159216,1.79631097018088,0.495155831251236,995.320826226692,1039.56233726437,-488.660413113346
+"four-domain management count + country + facility complexity + (1 | facility_id)",1008,173,7,3.20515615983458,1.79029499240616,0.493478702308608,996.773533062208,1045.93076754852,-488.386766531104
+"four-domain management count + country + pharmacy availability + facility complexity + (1 | facility_id)",1008,173,7,3.20075775738134,1.78906616908971,0.493135455824252,998.717437017026,1052.79039495197,-488.358718508513
+"pharmacy arrangement among facilities with pharmacy + country + facility complexity + (1 | facility_id)",787,135,7,2.80428194920317,1.67459904132397,0.460159646719576,790.006133273781,836.688415757955,-385.003066636891

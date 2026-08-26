@@ -1,0 +1,11 @@
+Table: Facility-level distribution of harmonized facility complexity by country
+
+|country | Primary/ambulatory| Higher-complexity|
+|:-------|------------------:|-----------------:|
+|BLZ     |                  8|                 3|
+|GTM     |                 17|                 5|
+|HND     |                 60|                 0|
+|MEX     |                 20|                 0|
+|NIC     |                 14|                 9|
+|PAN     |                  8|                 4|
+|SLV     |                 21|                 4|

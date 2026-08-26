@@ -1,0 +1,174 @@
+"country","datstat_altpid","facility_complexity","PHAR_TYPE","pharmacy_available","pharmacy_management_arrangement","management_domain_count4"
+"BLZ","F03","Primary/ambulatory",1,1,"Ministry/Secretary",0
+"BLZ","F04","Primary/ambulatory",0,0,NA,1
+"BLZ","F05","Primary/ambulatory",0,0,NA,0
+"BLZ","F06","Primary/ambulatory",1,1,"Ministry/Secretary",1
+"BLZ","F17","Higher-complexity",995,0,NA,2
+"BLZ","F18","Primary/ambulatory",995,0,NA,1
+"BLZ","F19","Primary/ambulatory",0,0,NA,1
+"BLZ","F21","Primary/ambulatory",1,1,"Ministry/Secretary",0
+"BLZ","F31","Higher-complexity",1,1,"Ministry/Secretary",3
+"BLZ","F39","Higher-complexity",1,1,"Ministry/Secretary",2
+"BLZ","F40","Primary/ambulatory",1,1,"Ministry/Secretary",2
+"GTM","F301","Higher-complexity",1,1,"Ministry/Secretary",4
+"GTM","F302","Higher-complexity",1,1,"Ministry/Secretary",3
+"GTM","F303","Higher-complexity",1,1,"Ministry/Secretary",3
+"GTM","F304","Higher-complexity",1,1,"Ministry/Secretary",4
+"GTM","F305","Higher-complexity",1,1,"Ministry/Secretary",3
+"GTM","F306","Primary/ambulatory",1,1,"Ministry/Secretary",2
+"GTM","F307","Primary/ambulatory",0,0,NA,2
+"GTM","F308","Primary/ambulatory",0,0,NA,2
+"GTM","F309","Primary/ambulatory",1,1,"Ministry/Secretary",3
+"GTM","F310","Primary/ambulatory",0,0,NA,4
+"GTM","F311","Primary/ambulatory",0,0,NA,1
+"GTM","F312","Primary/ambulatory",0,0,NA,0
+"GTM","F313","Primary/ambulatory",0,0,NA,3
+"GTM","F314","Primary/ambulatory",1,1,"Ministry/Secretary",1
+"GTM","F315","Primary/ambulatory",0,0,NA,1
+"GTM","F316","Primary/ambulatory",0,0,NA,3
+"GTM","F317","Primary/ambulatory",0,0,NA,1
+"GTM","F318","Primary/ambulatory",1,1,"Ministry/Secretary",4
+"GTM","F319","Primary/ambulatory",0,0,NA,3
+"GTM","F320","Primary/ambulatory",0,0,NA,2
+"GTM","F322","Primary/ambulatory",0,0,NA,3
+"GTM","F323","Primary/ambulatory",0,0,NA,2
+"HND","F03","Primary/ambulatory",2,1,"Facility manager",2
+"HND","F04","Primary/ambulatory",2,1,"Facility manager",3
+"HND","F05","Primary/ambulatory",2,1,"Facility manager",1
+"HND","F06","Primary/ambulatory",2,1,"Facility manager",2
+"HND","F12","Primary/ambulatory",2,1,"Facility manager",3
+"HND","F17","Primary/ambulatory",2,1,"Facility manager",2
+"HND","F18","Primary/ambulatory",995,0,NA,1
+"HND","F19","Primary/ambulatory",2,1,"Facility manager",2
+"HND","F205","Primary/ambulatory",2,1,"Facility manager",3
+"HND","F21","Primary/ambulatory",995,0,NA,3
+"HND","F210","Primary/ambulatory",2,1,"Facility manager",3
+"HND","F213","Primary/ambulatory",995,0,NA,2
+"HND","F217","Primary/ambulatory",995,0,NA,3
+"HND","F226","Primary/ambulatory",2,1,"Facility manager",0
+"HND","F248","Primary/ambulatory",2,1,"Facility manager",3
+"HND","F255","Primary/ambulatory",2,1,"Facility manager",3
+"HND","F301","Primary/ambulatory",995,0,NA,2
+"HND","F302","Primary/ambulatory",995,0,NA,3
+"HND","F303","Primary/ambulatory",2,1,"Facility manager",2
+"HND","F304","Primary/ambulatory",2,1,"Facility manager",2
+"HND","F305","Primary/ambulatory",2,1,"Facility manager",3
+"HND","F306","Primary/ambulatory",2,1,"Facility manager",2
+"HND","F307","Primary/ambulatory",2,1,"Facility manager",2
+"HND","F308","Primary/ambulatory",2,1,"Facility manager",3
+"HND","F309","Primary/ambulatory",2,1,"Facility manager",2
+"HND","F31","Primary/ambulatory",2,1,"Facility manager",1
+"HND","F310","Primary/ambulatory",2,1,"Facility manager",2
+"HND","F311","Primary/ambulatory",2,1,"Facility manager",3
+"HND","F312","Primary/ambulatory",2,1,"Facility manager",1
+"HND","F313","Primary/ambulatory",2,1,"Facility manager",3
+"HND","F314","Primary/ambulatory",995,0,NA,2
+"HND","F315","Primary/ambulatory",2,1,"Facility manager",4
+"HND","F316","Primary/ambulatory",2,1,"Facility manager",3
+"HND","F317","Primary/ambulatory",2,1,"Facility manager",1
+"HND","F318","Primary/ambulatory",2,1,"Facility manager",2
+"HND","F319","Primary/ambulatory",2,1,"Facility manager",0
+"HND","F320","Primary/ambulatory",2,1,"Facility manager",2
+"HND","F322","Primary/ambulatory",2,1,"Facility manager",2
+"HND","F323","Primary/ambulatory",2,1,"Facility manager",2
+"HND","F36","Primary/ambulatory",2,1,"Facility manager",2
+"HND","F39","Primary/ambulatory",1,1,"Ministry/Secretary",1
+"HND","F40","Primary/ambulatory",995,0,NA,0
+"HND","F46","Primary/ambulatory",2,1,"Facility manager",3
+"HND","F49","Primary/ambulatory",2,1,"Facility manager",2
+"HND","F51","Primary/ambulatory",2,1,"Facility manager",3
+"HND","F52","Primary/ambulatory",2,1,"Facility manager",3
+"HND","F55","Primary/ambulatory",2,1,"Facility manager",2
+"HND","F56","Primary/ambulatory",2,1,"Facility manager",2
+"HND","F60","Primary/ambulatory",2,1,"Facility manager",3
+"HND","F61","Primary/ambulatory",2,1,"Facility manager",3
+"HND","F66","Primary/ambulatory",2,1,"Facility manager",3
+"HND","F68","Primary/ambulatory",995,0,NA,2
+"HND","F70","Primary/ambulatory",2,1,"Facility manager",3
+"HND","F71","Primary/ambulatory",2,1,"Facility manager",3
+"HND","F72","Primary/ambulatory",2,1,"Facility manager",3
+"HND","F75","Primary/ambulatory",2,1,"Facility manager",4
+"HND","F77","Primary/ambulatory",2,1,"Facility manager",1
+"HND","F82","Primary/ambulatory",2,1,"Facility manager",2
+"HND","F84","Primary/ambulatory",2,1,"Facility manager",3
+"HND","F91","Primary/ambulatory",1,1,"Ministry/Secretary",4
+"MEX","F301","Primary/ambulatory",1,1,"Ministry/Secretary",1
+"MEX","F303","Primary/ambulatory",1,1,"Ministry/Secretary",1
+"MEX","F304","Primary/ambulatory",1,1,"Ministry/Secretary",2
+"MEX","F305","Primary/ambulatory",1,1,"Ministry/Secretary",4
+"MEX","F306","Primary/ambulatory",1,1,"Ministry/Secretary",3
+"MEX","F307","Primary/ambulatory",1,1,"Ministry/Secretary",2
+"MEX","F308","Primary/ambulatory",1,1,"Ministry/Secretary",1
+"MEX","F309","Primary/ambulatory",1,1,"Ministry/Secretary",1
+"MEX","F310","Primary/ambulatory",1,1,"Ministry/Secretary",2
+"MEX","F311","Primary/ambulatory",1,1,"Ministry/Secretary",1
+"MEX","F312","Primary/ambulatory",1,1,"Ministry/Secretary",3
+"MEX","F313","Primary/ambulatory",1,1,"Ministry/Secretary",3
+"MEX","F314","Primary/ambulatory",1,1,"Ministry/Secretary",2
+"MEX","F315","Primary/ambulatory",1,1,"Ministry/Secretary",3
+"MEX","F317","Primary/ambulatory",1,1,"Ministry/Secretary",1
+"MEX","F318","Primary/ambulatory",1,1,"Ministry/Secretary",1
+"MEX","F319","Primary/ambulatory",1,1,"Ministry/Secretary",2
+"MEX","F320","Primary/ambulatory",1,1,"Ministry/Secretary",0
+"MEX","F322","Primary/ambulatory",1,1,"Ministry/Secretary",0
+"MEX","F323","Primary/ambulatory",1,1,"Ministry/Secretary",3
+"NIC","F05","Primary/ambulatory",1,1,"Ministry/Secretary",3
+"NIC","F205","Higher-complexity",1,1,"Ministry/Secretary",4
+"NIC","F210","Higher-complexity",1,1,"Ministry/Secretary",4
+"NIC","F226","Primary/ambulatory",1,1,"Ministry/Secretary",1
+"NIC","F301","Higher-complexity",1,1,"Ministry/Secretary",3
+"NIC","F302","Higher-complexity",1,1,"Ministry/Secretary",3
+"NIC","F303","Higher-complexity",1,1,"Ministry/Secretary",4
+"NIC","F304","Higher-complexity",1,1,"Ministry/Secretary",4
+"NIC","F305","Higher-complexity",1,1,"Ministry/Secretary",3
+"NIC","F306","Higher-complexity",1,1,"Ministry/Secretary",3
+"NIC","F307","Higher-complexity",1,1,"Ministry/Secretary",4
+"NIC","F308","Primary/ambulatory",1,1,"Ministry/Secretary",4
+"NIC","F311","Primary/ambulatory",1,1,"Ministry/Secretary",0
+"NIC","F312","Primary/ambulatory",1,1,"Ministry/Secretary",1
+"NIC","F313","Primary/ambulatory",1,1,"Ministry/Secretary",1
+"NIC","F314","Primary/ambulatory",1,1,"Ministry/Secretary",1
+"NIC","F315","Primary/ambulatory",1,1,"Ministry/Secretary",0
+"NIC","F316","Primary/ambulatory",1,1,"Ministry/Secretary",1
+"NIC","F317","Primary/ambulatory",1,1,"Ministry/Secretary",1
+"NIC","F319","Primary/ambulatory",1,1,"Ministry/Secretary",1
+"NIC","F320","Primary/ambulatory",1,1,"Ministry/Secretary",1
+"NIC","F322","Primary/ambulatory",1,1,"Ministry/Secretary",1
+"NIC","F323","Primary/ambulatory",1,1,"Ministry/Secretary",1
+"PAN","F03","Higher-complexity",2,1,"Facility manager",2
+"PAN","F04","Higher-complexity",2,1,"Facility manager",1
+"PAN","F05","Higher-complexity",2,1,"Facility manager",1
+"PAN","F06","Higher-complexity",2,1,"Facility manager",3
+"PAN","F12","Primary/ambulatory",2,1,"Facility manager",1
+"PAN","F18","Primary/ambulatory",2,1,"Facility manager",1
+"PAN","F19","Primary/ambulatory",2,1,"Facility manager",0
+"PAN","F21","Primary/ambulatory",2,1,"Facility manager",3
+"PAN","F31","Primary/ambulatory",2,1,"Facility manager",1
+"PAN","F36","Primary/ambulatory",0,0,NA,1
+"PAN","F39","Primary/ambulatory",2,1,"Facility manager",2
+"PAN","F40","Primary/ambulatory",2,1,"Facility manager",1
+"SLV","F05","Higher-complexity",995,0,NA,3
+"SLV","F06","Primary/ambulatory",1,1,"Ministry/Secretary",2
+"SLV","F18","Higher-complexity",995,0,NA,2
+"SLV","F19","Higher-complexity",1,1,"Ministry/Secretary",3
+"SLV","F301","Primary/ambulatory",1,1,"Ministry/Secretary",2
+"SLV","F302","Primary/ambulatory",995,0,NA,2
+"SLV","F303","Primary/ambulatory",1,1,"Ministry/Secretary",2
+"SLV","F304","Primary/ambulatory",995,0,NA,3
+"SLV","F305","Primary/ambulatory",1,1,"Ministry/Secretary",2
+"SLV","F306","Primary/ambulatory",995,0,NA,2
+"SLV","F307","Primary/ambulatory",1,1,"Ministry/Secretary",2
+"SLV","F308","Primary/ambulatory",1,1,"Ministry/Secretary",2
+"SLV","F309","Primary/ambulatory",1,1,"Ministry/Secretary",2
+"SLV","F310","Primary/ambulatory",1,1,"Ministry/Secretary",2
+"SLV","F311","Primary/ambulatory",1,1,"Ministry/Secretary",2
+"SLV","F312","Primary/ambulatory",1,1,"Ministry/Secretary",2
+"SLV","F313","Primary/ambulatory",995,0,NA,2
+"SLV","F314","Primary/ambulatory",995,0,NA,2
+"SLV","F315","Primary/ambulatory",995,0,NA,2
+"SLV","F316","Primary/ambulatory",995,0,NA,2
+"SLV","F317","Primary/ambulatory",1,1,"Ministry/Secretary",2
+"SLV","F36","Primary/ambulatory",1,1,"Ministry/Secretary",2
+"SLV","F52","Primary/ambulatory",1,1,"Ministry/Secretary",2
+"SLV","F55","Primary/ambulatory",995,0,NA,2
+"SLV","F60","Higher-complexity",1,1,"Ministry/Secretary",3
